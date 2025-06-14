@@ -1,0 +1,25 @@
+<tv generator-info-url="https://koditvepg.com" source-info-name="BR EPG, 2025-06-13 - 2025-06-16, (573 channels)" generator-info-name="EPG Generator, Version v5.2">
+<channel id="a.e.br">
+<display-name>A&E BR</display-name>
+<icon src="https://logo.koditvepg.com/BR/a.e.br.png"/>
+</channel>
+<channel id="agromais.br">
+<display-name>Agromais HD BR</display-name>
+<icon src="https://logo.koditvepg.com/BR/agromais.br.png"/>
+</channel>
+<channel id="amazon.sat.br">
+<display-name>Amazon Sat BR</display-name>
+<icon src="https://logo.koditvepg.com/BR/amazon.sat.br.png"/>
+</channel>
+<channel id="amc.br">
+<display-name>AMC HD BR</display-name>
+<icon src="https://logo.koditvepg.com/BR/amc.br.png"/>
+</channel>
+<channel id="amc.brasil.br">
+<display-name>AMC Brasil BR</display-name>
+<icon src="https://logo.koditvepg.com/BR/amc.brasil.br.png"/>
+</channel>
+<channel id="animal.planet.br">
+<display-name>Animal Planet BR</display-name>
+<icon src="https://logo.koditvepg.com/BR/animal.planet.br.png"/>
+</channel>
